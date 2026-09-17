@@ -10,6 +10,10 @@ this lib has features for modders, like:
 * Softcodes like Arcade, Tomb Raiser, Magician and Powerlily!
 * Teleportatomine Fix! (By RenoJson)
 
+## Credits
+* Blazey and RenoJson (Teeri): for helping me to learn to lib
+* RenoJson (Teeri): Teleportatomine Fix and RtWeakPtr Fix
+
 ## Future Plans
 * add gis, projectiles and popanimrig support
 * recreate more layout of the original game
