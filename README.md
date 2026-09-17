@@ -1,4 +1,4 @@
-# Fga721ExampleMod
+# Fga721ExpansionMod
 this is a repo for lib pvz2 by inline hooking, using and64inlinehook as base, you can inject the library to the game and enjoy of features;
 this library has the propuse of be a start point for the people who doesnt know to lib in arm64 because all the public libs are arm (32 bits)
 
