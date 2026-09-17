@@ -12,7 +12,7 @@ this lib has features for modders, like:
 
 ## Credits
 * Blazey and RenoJson (Teeri): for helping me to learn to lib
-* RenoJson (Teeri): Teleportatomine Fix and RtWeakPtr Fix
+* RenoJson (Teeri): Teleportatomine Fix, Board Expansion and RtWeakPtr Fix
 
 ## Future Plans
 * add gis, projectiles and popanimrig support
