@@ -7,7 +7,9 @@ this lib has features for modders, like:
 * Integer ID Backport!
 * Piano Softcode: You can put new zombies for dance with the piano!
 * Mummy Memory Fix Ported To Arm64!
-* Softcodes like Arcade, Tomb Raiser, Magician and Powerlily!
+* Softcodes like Arcade, Tomb Raiser, Magician, Powerlily and Bombegranate!
+* Garg Zombie Launching Imp Fix!
+* Banana Reticle Modificable Popanim!
 * Teleportatomine Fix! (By RenoJson)
 
 ## Credits
